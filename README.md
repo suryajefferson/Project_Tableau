@@ -7,3 +7,11 @@ Explore the Project Here: [Airbnb_Analysis_File](/My%20Tableau%20Project.twb)
 
 ![figure](/Screenshot%202024-10-18%20132919.png)
 
+
+<details>
+  <summary><h3>Making Video</h2></summary>
+
+  [![Video](https://i.ytimg.com/vi_webp/18sj3FtlpO0/maxresdefault.webp)](https://www.youtube.com/watch?v=18sj3FtlpO0)
+
+
+</details>
